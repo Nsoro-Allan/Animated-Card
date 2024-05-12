@@ -87,3 +87,13 @@ p{
     border-radius: 20px;
     font-style: italic;
 }
+
+@media screen and (min-width: 200px) and (max-width: 950px){
+    .card{
+        width: 95%;
+    }
+    .circle{
+        width: 35%;
+    }
+    
+}
