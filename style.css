@@ -45,7 +45,7 @@ body{
     border: 6px solid;
     border-color: #fff black #fff black;
     border-radius: 50%;
-    animation: rotate 60s linear infinite;
+    animation: rotate 30s linear infinite;
 }
 
 @keyframes rotate {
